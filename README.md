@@ -62,10 +62,8 @@ The dataset `greendestination.csv` includes employee details like:
 ## Tableau Dashboard
 
 You can also view the visual dashboard on Tableau Public:  
-**[Link to your Tableau dashboard](#)**  
-(Uploading soon)
+**https://public.tableau.com/app/profile/nida.fathima3917/viz/GreenDestinationEmployeeAttritionDashboard/AnalyzingEmployeeattritionatgreendestination_?publish=yes(#)**  
 
-![Tableau Screenshot](uploading soon)
 
 ---
 
